@@ -2,6 +2,10 @@
 
 macOS 菜单栏的远程 Linux 服务器监控。
 
+## 下载
+
+预编译版本：[Releases](https://github.com/DujDDx/ServerDeck/releases/latest)（macOS 14+，arm64 + x86_64 通用二进制）。
+
 通过 SSH 定时执行一段**只读**脚本，采集：
 
 - **GPU**：利用率、显存占用、温度、功耗（`nvidia-smi`，支持多卡）
